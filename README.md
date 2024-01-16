@@ -6,7 +6,7 @@ I'm student currently studying in Mahidol University, Faculty of Information and
 let myBio = {
   bio:{
     name: Faruhiz,
-    age: 20,
+    age: 21,
     skills: {
       coding: ["js","html","python","react.js"],
       database: ["SQL", "mongoDB"]

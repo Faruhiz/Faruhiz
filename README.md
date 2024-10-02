@@ -8,7 +8,7 @@ let myBio = {
     name: Faruhiz,
     age: 21,
     skills: {
-      coding: ["js","html","python","react.js"],
+      coding: ["js","html","python","react.js","cpp","c","java"],
       database: ["SQL", "mongoDB"]
     },
   }
